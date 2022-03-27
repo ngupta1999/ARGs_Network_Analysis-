@@ -41,7 +41,7 @@ Run the following command
     
 5. Map [unigenes to AROs](http://gmgc.embl.de/downloads/v1.0/GMGC10.card_resfam.tsv.gz)
    
-   **File**: AROs_file.cev
+   **File**: GMGC10.card_resfam.tsv.gz
    
    **Code**: Data_extraction..ipynb
    
