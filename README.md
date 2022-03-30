@@ -19,19 +19,19 @@ Run the following command
 
    **File**: GMGC10.sample.meta.tsv.gz
    
-   **Source**: [Sample Metadata](http://gmgc.embl.de/downloads/v1.0/metadata/GMGC10.sample.meta.tsv.gz.metadata/GMGC10.sample.meta.tsv.gz)
+   **Source**: [Sample Metadata](http://gmgc.embl.de/downloads/v1.0/metadata/GMGC10.sample.meta.tsv.gz.metadata)
 
 2. Filter the genome bins table to get the MAGs from the wastewater samples. 
    
    **File**: GMBC10.meta.tsv
 
-   **Source**: [MAGs](http://gmgc.embl.de/downloads/v1.0/GMBC10.meta.tsv.GMBC10.meta.tsv)
+   **Source**: [MAGs](http://gmgc.embl.de/downloads/v1.0/GMBC10.meta.tsv)
    
 3. Filter the MAG <-> Unigene table for only the MAGs identified in step #3 and keep high-quality (>90% complete & <5% contamination) and medium-quality    (>50% complete & <10% contamination) genome bins.
 
    **File**: GMGC10.GMBC10.tsv.gz
 
-   **Source**: [Unigenes](http://gmgc.embl.de/downloads/v1.0/GMGC10.GMBC10.tsv.gz.GMGC10.GMBC10.tsv.gz)
+   **Source**: [Unigenes](http://gmgc.embl.de/downloads/v1.0/GMGC10.GMBC10.tsv.gz)
    
  4. Filter this further to get only the unigenes that are ARGs.
  
