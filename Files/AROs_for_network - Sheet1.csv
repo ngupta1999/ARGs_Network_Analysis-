@@ -1,0 +1,83 @@
+TO INCLUDE,,,,,TO EXCLUDE
+Biological meaning,Abbreviation,ARO,,,higher ontology
+VanG-type_vancomycin_resistance_DNA-binding_response_regulator_VanR,vanRG,ARO:3002926,,,3003835
+mupirocin-resistant_isoleucine--tRNA_ligase_MupA,Staphylococcus aureus mupA conferring resistance to mupirocin,ARO:3000521,,,3003952
+sulfonamide-resistant_dihydropteroate_synthase_Sul4,sul4,ARO:3004361,,,3000501
+P42332 RecName: Full=Bacitracin transport ATP-binding protein bcrA,bcrA,ARO:3002987,,,3003787
+tetracycline_resistance_ribosomal_protection_protein_Tet(O),tetO,ARO:3000190,,,3000267
+D-lactate_dehydrogenase_VanH-Pt,vanHA,ARO:3002942,,,3003425
+fimbrial_protein_MyfA,arnA,ARO:3002985,,,3000240
+Cfr_family_23S_rRNA_(adenine(2503)-C(8))-methyltransferase,cfrC,ARO:3004146,,,0010004
+M6_family_metalloprotease_immune_inhibitor_InhA1,evgS,ARO:3000833,,,3000185
+tetracycline resistance gene found in Campylobacter fetus,tet(44),ARO:3000556,,,3000078
+vanR gene in vanM cluster,vanRM,ARO:3002928,,,3003398
+LytR_family_transcriptional_regulator_BpsX,clbB,ARO:3002815,,,3002906
+ATP-binding_subunit_MchF,patB,ARO:3000025,,,3003578
+vanY gene in vanB cluster,vanYB,ARO:3002956,,,3000002
+Staphylococcus aureus mupB conferring resistance to mupirocin,Saur_mupB_MUP,ARO:3000510,,,3003982
+trimethoprim-resistant_dihydrofolate_reductase_DfrG,dfrG,ARO:3002868,,,3000446
+vanR gene in vanF cluster,vanRF,ARO:3002925,,,3003580
+a part of the EfrAB efflux pump,efrA,ARO:3003948,,,3000477
+two-component_system_response_regulator_PhoP,kdpE,ARO:3003841,,,3003747
+vanR gene in vanC cluster,vanRC,ARO:3002922,,,3002984
+resistance to tetracycline,tetT,ARO:3000193,,,3000024
+trimeric_autotransporter_adhesin_YadA,ugd,ARO:3003577,,,3000202
+ABC transporter,novA,ARO:3002522,,,3000535
+Protein subunit of AcrA-AcrB-TolC multidrug efflux complex,acrA,ARO:3000207,,,3000451
+arsenite_efflux_transporter_metallochaperone_ArsD,TriB,ARO:3003680,,,3000315
+vanT gene in vanG cluster,vanTG,ARO:3002972,,,3000241
+D-alanine--D-serine_ligase_VanG,vanG,ARO:300290,,,3000381
+ABC-F_type_ribosomal_protection_protein_LmrC,lmrC,ARO:3002881,,,3002915
+resistance to bacitracin,bacA,ARO: 3002986,,,3004273
+tetracycline efflux pump,tet(35),ARO:3000481,,,0000002
+vanR gene in vanI cluster,vanRI,ARO:3003728,,,3002979
+efflux pump,pmrA,ARO:3000822,,,3000529
+efflux pump,PmpM,ARO:3004077,,,3003252
+vanK gene in vanI cluster,vanKI,ARO:3003727,,,3004238
+efflux pump,arlR,ARO:3000838,,,10002
+vanR gene in vanN cluster,vanRN,ARO:3002929,,,3003965
+an oxytetracycline resistance ribosomal protection protein,otr(A) ,ARO:3002891,,,3000750
+efflux pump,efrB,ARO:3003949 ,,,3000492
+Escherichia coli acrA,acrA,ARO: 3004043,,,3000748
+efflux pump,tetA(58),ARO:3003980,,,3000751
+vanH gene in vanB cluster,vanHB,ARO:3002943,,,3000322
+ABC-F ATP-binding cassette ribosomal protection protein,optrA,ARO:3003746,,,3000574
+vanR gene in vanE cluster,vanRE,ARO:3002924,,,3000489
+efflux pump,tet32,ARO:3000196,,,3000164
+arsenite_efflux_transporter_Acr3,MexK,ARO:3003693,,,3000383
+a tetracycline efflux protein,tetB(P),ARO:3000195,,,3000000
+efflux pump,lmrD,ARO:3002882,,,3000209
+efflux pump,mtrA,ARO:3000816,,,3003318
+vanW gene in vanI cluster,vanWI,ARO:3003724,,,3000052
+,,,,,3000112
+,,,,,3000472
+,,,,,3004112
+,,,,,3002905
+,,,,,1000001
+,,,,,3000104
+,,,,,3000370
+,,,,,0000031
+,,,,,3001218
+,,,,,3000006
+,,,,,3003726
+,,,,,0010001
+,,,,,3000001
+,,,,,3002976
+,,,,,3000558
+,,,,,3000129
+,,,,,3000480
+,,,,,3000494
+,,,,,3000210
+,,,,,3004274
+,,,,,3000159
+,,,,,3000557
+,,,,,3000121
+,,,,,3000519
+,,,,,3000408
+,,,,,3000077
+,,,,,3000372
+,,,,,3000012
+,,,,,3000071
+,,,,,3003276
+,,,,,3004269
+,,,,,3004028
